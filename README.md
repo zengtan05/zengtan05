@@ -59,9 +59,4 @@ A real-time concert ticket buy/sell and exchange platform designed to reduce fra
 ### 📈 Web-Based Trading Simulator
 A trading simulation platform that tracks real-time stock K-line (candlestick) graphs and allows users to simulate trading strategies based on live market data.
 
----
 
-## 📫 Contact
-
-- Email: zengzai0303@gmail.com
-- LinkedIn: Zeng Tan
