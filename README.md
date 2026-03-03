@@ -37,26 +37,5 @@ I enjoy building structured systems that combine data, algorithms, and real-worl
 
 - Improve my data science and machine learning skills 
 - Improve backend system architecture and database optimisation
-- Build scalable, real-world data products 
-
----
-
-## 🛠 Tech Stack
-
-- Python / Java / C++
-- MySQL
-- HTML / CSS / JavaScript
-- Git & GitHub
-- Data Analysis & Visualization (Pandas, Matplotlib, etc.)
-
----
-
-## 📌 Featured Projects
-
-### 🎟 Ticket Match
-A real-time concert ticket buy/sell and exchange platform designed to reduce fraud and minimize transaction friction through structured verification and controlled matching workflows.
-
-### 📈 Web-Based Trading Simulator
-A trading simulation platform that tracks real-time stock K-line (candlestick) graphs and allows users to simulate trading strategies based on live market data.
 
 
