@@ -25,7 +25,7 @@ I enjoy building structured systems that combine data, algorithms, and real-worl
 
 ## 💡 Interests
 
-- Data Analytics & Applied Algorithms
+- Data Analytics
 - Platform System Design
 - Location-Based Services (LBS)
 - AI Integration in Practical Systems
