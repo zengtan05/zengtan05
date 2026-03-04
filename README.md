@@ -3,14 +3,6 @@
 Hi there! I'm Zeng 👋  
 I'm a student who has big interest with data analysis passionate about understanding how data works in the real world and how intelligent systems can be built from it.
 
-Currently, I'm studying Information Management at National Taiwan University. My final year project focuses on a campus social matching platform that integrates:
-
-- AI-based visual verification
-- Multi-factor proximity-aware matching algorithms
-- Geofenced campus boundary control
-- Real-time walk-distance computation
-
-I enjoy building structured systems that combine data, algorithms, and real-world constraints into practical solutions.
 
 ---
 
